@@ -1,0 +1,4 @@
+// Compost colors for weaponmaster. You may add your own colors, change existing ones, or remove colors that aren't needed.
+tutorialbook, #706f7c
+weaponkit, #917d7a
+workstation, #7c5e62

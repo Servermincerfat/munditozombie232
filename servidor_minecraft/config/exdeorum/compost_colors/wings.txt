@@ -1,0 +1,11 @@
+// Compost colors for wings. You may add your own colors, change existing ones, or remove colors that aren't needed.
+angel_wings_bottle, #ffffff
+bat_wings_bottle, #7a6f79
+blue_butterfly_wings_bottle, #46cff0
+dragon_wings_bottle, #d7aea0
+evil_wings_bottle, #657386
+fairy_wings_bottle, #e8f1f1
+fire_wings_bottle, #ddb579
+monarch_butterfly_wings_bottle, #c59058
+parrot_wings_bottle, #e0bb8d
+slime_wings_bottle, #a1d7ac
